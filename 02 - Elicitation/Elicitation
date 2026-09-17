@@ -1,13 +1,93 @@
-stakeholders
+#stakeholder needs and concerns  
+Student : Finding available equipment, making bookings, knowing when equipment is due back 
 
-stakeholder needs and concerns  
+Lecturer : Having equipment available when needed for teaching 
 
-unknowns  
+Equipment technician : Preparing equipment, issuing/receiving equipment, recording returns and dealing with problems 
 
-information sources  
+Department administrator : Managing booking information and dealing with booking queries 
 
-elicitation questions  
+Equipment manager : Availability, accountability, equipment usage and overdue equipment 
 
-interview notes  
+College management : Appropriate use of college resources, records and accountability 
 
-candidate requirement  
+
+#unknowns  
+Example 1 
+Unknown: Who is allowed to book specialist equipment? 
+
+Potential stakeholder: Equipment manager 
+
+Possible additional stakeholder: Equipment technician 
+
+ 
+
+Example 2 
+Unknown: What happens when equipment is returned late? 
+
+Potential stakeholder: Equipment technician 
+
+Possible additional stakeholder: Equipment manager 
+
+ 
+
+Example 3 
+Unknown: What information must be recorded for each booking? 
+
+Potential stakeholders: 
+
+Equipment technician  
+
+Equipment manager  
+
+Department administrator  
+
+ 
+Other possible unknowns 
+
+Students might identify: 
+
+How far in advance can equipment be booked?  
+
+Can a booking be cancelled?  
+
+Who can cancel a booking?  
+
+What happens if equipment is unavailable?  
+
+Can someone else collect equipment on behalf of the person who booked it?  
+#information sources  
+
+#elicitation questions  
+1. Current process 
+
+How are equipment bookings currently arranged from the initial request through to collection? 
+
+This encourages the stakeholder to describe the process. 
+
+2. Problems 
+
+What problems do you experience with the current equipment booking process? 
+
+This explores problems rather than assuming them. 
+
+3. Exception 
+
+What normally happens if someone does not return equipment when expected? 
+
+This investigates an exception. 
+
+4. Information 
+
+What information do you need when someone requests or collects equipment? 
+
+This identifies information requirements. 
+
+5. Unknown 
+
+Are there any types of equipment or bookings that require special approval or different procedures? 
+
+#candidate requirement  
+The system shall record the expected return date and time for each equipment booking. 
+
+Or: The system shall record the person responsible for each equipment booking. 
